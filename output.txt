@@ -1,0 +1,6 @@
+The name of the shape is: Cube The length is10.0 And the parameter ask for is area
+The area price for architect, score <600 is12000.0
+The area price for other, score >=600 is12000.0
+The name of the shape is: Sphere The radius is5.0 And the parameter asked for is volume
+The volume price for architect, score <600 is31415.92653589793
+The volume price for other, score >=600 is39269.90816987241
